@@ -1,0 +1,19 @@
+{
+  "name": "background_generetor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawadahmed23/Background_generetor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawadahmed23/Background_generetor/issues"
+  },
+  "homepage": "https://github.com/jawadahmed23/Background_generetor#readme"
+}
